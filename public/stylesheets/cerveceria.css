@@ -48,7 +48,7 @@ h1, h2 {
 .lista-novedades li a img {
     width: 120px;
     height: 50px;
-    filter: grayscale();
+    filter: grayscale( );
     transition: all .2s ease-in-out;
     margin-right: 1rem;
     opacity: 0.7;
@@ -60,15 +60,6 @@ h1, h2 {
     opacity: 1;
 }
 
-.testimonios {
-    background-color: #dadada;
-    padding-bottom: 4rem !important;
-}
-
-.testimonios {
-    text-align: center;
-    padding: 50px 20px;
-}
 
 .staff {
     background: #efefef;
